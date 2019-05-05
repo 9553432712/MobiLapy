@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class MobiLapyApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(MobiLapyApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(MobiLapyApplication.class, args);
+    }
 
 }
